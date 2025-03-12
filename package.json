@@ -1,0 +1,14 @@
+{
+  "name": "format-ass-subtitle",
+  "bin": {
+    "format-ass-subtitle": "index.ts"
+  },
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
