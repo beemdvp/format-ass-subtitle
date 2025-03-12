@@ -1,9 +1,19 @@
 # format-ass-subtitle
 
+Requirements:
+
+- WhisperX: https://github.com/m-bain/whisperX
+- pysubs2: `pip install pysubs2`
+
 To install dependencies:
 
 ```bash
 bun install
+```
+
+Activate Conda Environment
+```
+conda activate whisperx
 ```
 
 To run:
